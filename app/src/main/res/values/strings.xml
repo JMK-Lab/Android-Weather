@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="text_view_location">Location : </string>
+    <string name="recherche_en_cours">GPS Signal aquisition pending ...</string>
+</resources>
